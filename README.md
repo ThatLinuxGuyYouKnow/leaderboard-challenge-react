@@ -2,6 +2,8 @@
 
 This project is a dynamic, real-time leaderboard application built with Next.js and Tailwind CSS, as part of a coding challenge. It features a list of participants whose scores update automatically, with the UI reflecting these changes instantly.
 
+It's live [here](https://leaderboard-challenge-react.vercel.app/)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
